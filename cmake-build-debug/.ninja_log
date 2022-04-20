@@ -1,0 +1,17 @@
+# ninja log v5
+0	613	6721823437269248	CMakeFiles/CollatzConjecture.dir/main.cpp.obj	43f0005ca1fce045
+616	832	6721823439399252	CollatzConjecture.exe	dc56837067624ab
+2	606	6721824134192517	CMakeFiles/CollatzConjecture.dir/main.cpp.obj	43f0005ca1fce045
+607	771	6721824135802490	CollatzConjecture.exe	dc56837067624ab
+3	614	6721824579617281	CMakeFiles/CollatzConjecture.dir/main.cpp.obj	43f0005ca1fce045
+615	810	6721824581537289	CollatzConjecture.exe	dc56837067624ab
+4	2736	6721825528221575	CMakeFiles/CollatzConjecture.dir/main.cpp.obj	43f0005ca1fce045
+2739	2918	6721825529989958	CollatzConjecture.exe	dc56837067624ab
+4	673	6721825936342557	CMakeFiles/CollatzConjecture.dir/main.cpp.obj	43f0005ca1fce045
+674	829	6721825937872554	CollatzConjecture.exe	dc56837067624ab
+3	592	6721826217632095	CMakeFiles/CollatzConjecture.dir/main.cpp.obj	43f0005ca1fce045
+593	745	6721826219102052	CollatzConjecture.exe	dc56837067624ab
+6	640	6721829745816575	CMakeFiles/CollatzConjecture.dir/main.cpp.obj	43f0005ca1fce045
+640	835	6721829747716617	CollatzConjecture.exe	dc56837067624ab
+3	701	6721830837980929	CMakeFiles/CollatzConjecture.dir/main.cpp.obj	43f0005ca1fce045
+701	849	6721830839410907	CollatzConjecture.exe	dc56837067624ab
